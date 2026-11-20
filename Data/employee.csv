@@ -1,0 +1,118 @@
+employee_name,salary,phone,email_id,designation,joining_date,locality,location_id,assignment
+Jagvi Palan,31083,6136564907,badalbarkha@example.org,Sales Executive,2022-01-16,College Road,102,ST5
+Tanish Taneja,37109,5630712172,michael07@example.com,Warehouse Supervisor,2022-01-17,"H.No. 16, Talwar",71,WH7
+Abha Kapoor,20729,6170637967,mandalpavani@example.net,Warehouse Staff,2022-01-27,37Sethi Chowk,80,WH6
+Wridesh Bala,27173,2070995049,pooja65@example.org,Warehouse Staff,2022-02-15,"H.No. 16, Talwar",71,WH7
+Henry Date,32745,6354641879,shivansh00@example.com,Sales Executive,2022-02-18,Banjara Hills,101,ST4
+Leena Thaman,51312,2816989046,odin@example.net,Store Manager,2022-03-05,Andheri East,97,ST1
+Daksh Parekh,33003,3439479274,aishani39@example.net,Inventory Executive,2022-04-18,College Road,102,ST5
+Ishaan Thakkar,28314,8366391846,panini06@example.net,Inventory Executive,2022-05-07,T. Nagar,64,ST3
+Arin Chand,19803,7389883360,gunbir27@example.org,Warehouse Staff,2022-05-08,"H.No. 16, Talwar",71,WH7
+Panini Nayar,36098,4239440365,harshilsibal@example.org,Inventory Executive,2022-05-15,Banjara Hills,101,ST4
+Upadhriti Pathak,22142,4938327898,cdate@example.org,Warehouse Staff,2022-06-02,"20, Comar Ganj",54,WH10
+Azaan Munshi,20505,6712615114,aaurora@example.com,Warehouse Staff,2022-07-24,"20, Comar Ganj",54,WH10
+Anita Dave,21128,1591348492,kundakabir@example.com,Warehouse Staff,2022-07-28,H.No. 27 Sha Street,2,WH3
+Wridesh Tella,20588,9086107029,ucchalpingle@example.net,Warehouse Staff,2022-08-27,"H.No. 432, Chakrabarti Zila",42,WH11
+Siya Kumer,29907,5575217409,anthony42@example.com,Sales Executive,2022-08-28,College Road,102,ST5
+Yashawini Din,26946,4807223396,janijagdish@example.org,Warehouse Staff,2022-09-21,"H.No. 432, Chakrabarti Zila",42,WH11
+Gayathri Bhargava,22010,5265127942,mekhala47@example.org,Warehouse Staff,2022-09-23,"20, Comar Ganj",54,WH10
+Baghyawati Chaudhuri,19428,9086409557,rkaul@example.com,Warehouse Staff,2022-11-04,H.No. 182 Hans Nagar,93,WH2
+Xalak Raj,38346,2757914944,kondaomkaar@example.org,Inventory Executive,2022-11-12,College Road,102,ST5
+Chatura Brahmbhatt,18706,8428523703,simon57@example.com,Warehouse Staff,2022-11-21,"94/45, Dada Chowk",33,WH12
+Jonathan Agrawal,41748,7943977417,aryaabhiram@example.net,Purchase Executive,2023-01-02,Navrangpura,75,ST2
+Chakrika Walia,25096,4247167792,rseth@example.com,Warehouse Staff,2023-01-08,"H.No. 16, Talwar",71,WH7
+Jai Kara,18500,0511554255,chandran58@example.org,Warehouse Staff,2023-01-24,"62/40, Bassi Circle",73,WH5
+Harita Bhasin,24943,3472548916,gollatheodore@example.net,Warehouse Staff,2023-01-25,"H.No. 16, Talwar",71,WH7
+Azaan Hayre,23244,6818816909,hritik81@example.net,Warehouse Staff,2023-01-26,"H.No. 432, Chakrabarti Zila",42,WH11
+Ishwar Barman,20781,1827650272,alkapingle@example.net,Warehouse Staff,2023-03-13,"H.No. 432, Chakrabarti Zila",42,WH11
+Ira Nagar,20323,3193664712,vyasjatin@example.com,Warehouse Staff,2023-03-23,64/044 Mann Street,22,WH4
+Faris Ray,23278,4869214688,gchada@example.net,Cashier,2023-04-19,T. Nagar,64,ST3
+Kiaan Sachdeva,23369,4139453863,qabilmadan@example.org,Cashier,2023-05-07,Andheri East,97,ST1
+Ladli Merchant,23324,1333679096,qaggarwal@example.net,Warehouse Staff,2023-05-12,"14/72, Thakur Nagar",61,WH8
+Caleb Iyer,21106,5878155734,mohini46@example.com,Warehouse Staff,2023-05-26,37Sethi Chowk,80,WH6
+Lucky Chopra,20745,5900811172,adityadas@example.com,Warehouse Staff,2023-06-09,"94/45, Dada Chowk",33,WH12
+Jeet Shere,42427,8135282776,sandalhamsini@example.net,Warehouse Supervisor,2023-06-10,H.No. 182 Hans Nagar,93,WH2
+Vanya Dasgupta,37377,5880351668,khoslajeremiah@example.net,Purchase Executive,2023-06-23,Andheri East,97,ST1
+Ekaja Dhingra,26437,8991961280,ijaya24@example.net,Warehouse Staff,2023-07-04,"20, Comar Ganj",54,WH10
+Gaurangi Narula,23367,1345437098,ronith53@example.com,Warehouse Staff,2023-07-22,"62/40, Bassi Circle",73,WH5
+Aahana Char,19481,5299470407,vyanjana13@example.org,Warehouse Staff,2023-08-17,"14/72, Thakur Nagar",61,WH8
+Wazir Agarwal,32190,3798554762,shairya@example.com,Inventory Executive,2023-09-11,Navrangpura,75,ST2
+Yatan Batra,27378,2509717558,tanvi99@example.com,Warehouse Staff,2023-09-12,"784, Majumdar Road",74,WH1
+Gagan Butala,19153,4738395257,comarcharvi@example.com,Warehouse Staff,2023-09-14,H.No. 182 Hans Nagar,93,WH2
+Ucchal Chandra,29876,2893272841,qbal@example.net,Inventory Executive,2023-09-24,Andheri East,97,ST1
+Yashasvi Dhawan,27292,8632650269,krishnasood@example.com,Warehouse Staff,2023-10-28,64/044 Mann Street,22,WH4
+Harshil Sant,38894,5233864232,nikita28@example.com,Purchase Executive,2023-11-11,T. Nagar,64,ST3
+Idika Vohra,21877,3369735467,nathojas@example.org,Cashier,2023-12-14,T. Nagar,64,ST3
+Omisha Tandon,18093,0881660862,aahanashetty@example.org,Warehouse Staff,2023-12-18,"62/40, Bassi Circle",73,WH5
+Kamya Randhawa,20545,4329265563,zayanbava@example.net,Warehouse Staff,2024-01-14,37Sethi Chowk,80,WH6
+Harinakshi Lala,27163,3971578427,warindersethi@example.com,Warehouse Staff,2024-02-02,37Sethi Chowk,80,WH6
+Daksha Din,38659,4111622884,ranveer14@example.org,Warehouse Supervisor,2024-02-14,"784, Majumdar Road",74,WH1
+Yuvraj Rattan,30643,8044361581,satheamara@example.org,Sales Executive,2024-02-15,Andheri East,97,ST1
+Vedhika Bajwa,35800,8974057607,dewanupkaar@example.net,Warehouse Supervisor,2024-03-03,"20, Comar Ganj",54,WH10
+Onveer Mittal,22523,3580561452,krishnapandit@example.net,Warehouse Staff,2024-03-18,"81/67, Bandi Path",25,WH9
+Bina Ahuja,38431,1898071489,latavivaan@example.net,Warehouse Supervisor,2024-04-25,"94/45, Dada Chowk",33,WH12
+Eta Goel,23877,6344194494,oeshi45@example.net,Sales Executive,2024-04-26,College Road,102,ST5
+Gayathri Dhingra,23579,1736157126,obatta@example.com,Warehouse Staff,2024-05-16,H.No. 27 Sha Street,2,WH3
+Gaurav Bandi,21561,4410521427,omquincy@example.net,Cashier,2024-06-01,T. Nagar,64,ST3
+Madhav Palan,39304,8091747079,xsavant@example.com,Warehouse Supervisor,2024-07-01,37Sethi Chowk,80,WH6
+Balendra Upadhyay,22994,9827975763,xgarg@example.net,Cashier,2024-07-19,College Road,102,ST5
+Yatan Varkey,59012,1698372990,kondakai@example.net,Store Manager,2024-08-08,Banjara Hills,101,ST4
+Yashodhara Choudhary,67492,5777729823,varenyamody@example.net,Store Manager,2024-08-12,College Road,102,ST5
+Aadhya Nori,25197,7493879737,comararya@example.org,Warehouse Staff,2024-08-14,"81/67, Bandi Path",25,WH9
+Farhan Sidhu,19291,3328752967,dattazarna@example.com,Warehouse Staff,2024-08-27,64/044 Mann Street,22,WH4
+Nimrat Nadkarni,19651,4883296924,zcomar@example.org,Warehouse Staff,2024-09-08,"81/67, Bandi Path",25,WH9
+Akshay Mahajan,18511,1763829159,yachana57@example.org,Cashier,2024-09-13,College Road,102,ST5
+Vedhika Palla,26694,3655359910,murtyjatin@example.com,Warehouse Staff,2024-09-21,"14/72, Thakur Nagar",61,WH8
+Harish Verma,18464,8957438313,advik15@example.com,Warehouse Staff,2024-11-15,64/044 Mann Street,22,WH4
+Rudra Mani,19461,3128730927,harinikapur@example.net,Warehouse Staff,2024-11-15,"81/67, Bandi Path",25,WH9
+Udarsh Peri,20567,3685865298,bobalavni@example.org,Warehouse Staff,2024-11-22,"H.No. 432, Chakrabarti Zila",42,WH11
+Harrison Yadav,23992,3823085835,upadhriti07@example.org,Warehouse Staff,2024-12-04,"H.No. 432, Chakrabarti Zila",42,WH11
+Abhiram Thaman,24072,7830166019,shivaniganesan@example.org,Warehouse Staff,2024-12-14,"H.No. 16, Talwar",71,WH7
+Yauvani Balasubramanian,19134,8990634333,narainradhika@example.com,Warehouse Staff,2025-01-01,H.No. 27 Sha Street,2,WH3
+Tara Sundaram,22832,3621534382,abhiram01@example.net,Warehouse Staff,2025-02-19,"62/40, Bassi Circle",73,WH5
+Aahana Sarma,20901,1261497677,ochawla@example.com,Warehouse Staff,2025-02-28,H.No. 27 Sha Street,2,WH3
+Samesh Yadav,46509,8229633934,kavyamane@example.com,Accountant,2025-02-28,"H.No. 384, Rao Chowk",105,HQ
+Sneha Khatri,24424,1991031459,anya26@example.org,Warehouse Staff,2025-03-21,"14/72, Thakur Nagar",61,WH8
+Shivani Warrior,36172,1714133825,khoslachameli@example.net,Purchase Executive,2025-04-16,Banjara Hills,101,ST4
+Tarak Bala,67493,5377828024,aarushjaggi@example.com,Store Manager,2025-04-18,T. Nagar,64,ST3
+Barkha Bhatt,39707,5800485265,gaurikaratti@example.org,Warehouse Supervisor,2025-05-06,"14/72, Thakur Nagar",61,WH8
+Christopher Mahajan,19923,5374790464,naikbhavya@example.net,Warehouse Staff,2025-05-06,"20, Comar Ganj",54,WH10
+Mahika Peri,26216,9391237685,bhatiamekhala@example.com,Warehouse Staff,2025-05-08,"62/40, Bassi Circle",73,WH5
+Indrajit Garde,18880,2070735452,jvala@example.com,Cashier,2025-07-05,Andheri East,97,ST1
+Chanakya Raman,32037,5598090609,ztiwari@example.org,Inventory Executive,2025-08-15,Banjara Hills,101,ST4
+Saksham Date,18187,4801954820,ochatterjee@example.com,Warehouse Staff,2025-08-28,H.No. 182 Hans Nagar,93,WH2
+Tanveer Bawa,23828,6026117626,tlanka@example.com,Warehouse Staff,2025-10-05,"94/45, Dada Chowk",33,WH12
+Vivaan Mutti,29560,7642334662,sanecharles@example.org,Sales Executive,2025-10-12,Banjara Hills,101,ST4
+Ekani Bose,27852,5776319294,gpai@example.com,Warehouse Staff,2025-11-06,"784, Majumdar Road",74,WH1
+Meghana Om,38811,3233332219,bakshijagdish@example.org,Warehouse Supervisor,2025-12-08,"81/67, Bandi Path",25,WH9
+Jeremiah Madan,39465,2011386733,panini55@example.net,Purchase Executive,2025-12-26,Andheri East,97,ST1
+Wishi Gulati,29490,7831563612,pallavi40@example.net,Inventory Executive,2026-02-03,T. Nagar,64,ST3
+Forum Dhawan,23665,4909096183,brijeshbahri@example.net,Warehouse Staff,2026-02-14,"81/67, Bandi Path",25,WH9
+Chandran Bora,33856,8715867982,advikaganesh@example.org,Sales Executive,2026-03-07,T. Nagar,64,ST3
+Qushi Dubey,23231,3715782501,uwali@example.net,Warehouse Staff,2026-03-08,"14/72, Thakur Nagar",61,WH8
+Fiyaz Kara,43441,3241266336,ytiwari@example.org,Purchase Executive,2026-03-14,Banjara Hills,101,ST4
+Upkaar Purohit,23131,0143168604,bhavani46@example.net,Warehouse Staff,2026-03-23,"94/45, Dada Chowk",33,WH12
+Ekta Mitter,43161,2449045247,erege@example.net,Warehouse Supervisor,2026-04-01,H.No. 27 Sha Street,2,WH3
+Teerth Balan,39128,7534498299,ravibalvan@example.net,Warehouse Supervisor,2026-04-02,64/044 Mann Street,22,WH4
+Mugdha Wable,22780,3084604490,wrau@example.com,Sales Executive,2026-04-15,Navrangpura,75,ST2
+Dayita Pau,20827,7711189157,mason82@example.org,Warehouse Staff,2026-04-19,37Sethi Chowk,80,WH6
+Indrajit Deep,27719,7844388799,maanas80@example.org,Warehouse Staff,2026-04-25,"784, Majumdar Road",74,WH1
+Rachana Mitra,46271,5683354705,gollalavanya@example.org,Accountant,2026-04-27,"H.No. 329, Anand Nagar",105,HQ
+Aishani Muni,38104,4682068178,viswanathansaanvi@example.net,Purchase Executive,2026-05-01,Navrangpura,75,ST2
+Chaman Chaudhry,28209,9485346186,unni78@example.net,Inventory Executive,2026-06-12,College Road,102,ST5
+Warjas Oak,33272,2586613362,dalalwarjas@example.net,HR Executive,2026-06-21,"55, Ghose Circle",105,HQ
+Pallavi Trivedi,38671,1137109771,ikshitabali@example.com,Inventory Executive,2026-06-23,College Road,102,ST5
+Bakhshi Sampath,25925,2960329603,vgrewal@example.net,Warehouse Staff,2026-08-13,"H.No. 432, Chakrabarti Zila",42,WH11
+Rachita Korpal,26494,1484450562,sacharjoshua@example.net,Warehouse Staff,2026-08-18,"94/45, Dada Chowk",33,WH12
+Andrew Lad,43298,7717542738,nicholaszacharia@example.org,HR Executive,2026-09-12,"H.No. 732
+Bhavini Sule,35808,3755225729,turvisane@example.com,Inventory Executive,2026-10-03,Navrangpura,75,ST2
+Tristan Pall,18124,7325021962,shaurya96@example.net,Warehouse Staff,2026-10-06,H.No. 182 Hans Nagar,93,WH2
+Daniel Pingle,22724,3130429533,kotharivanya@example.net,Warehouse Staff,2026-10-20,"784, Majumdar Road",74,WH1
+Ikbal Tata,31634,7021350073,raishivansh@example.org,Sales Executive,2026-10-23,Navrangpura,75,ST2
+Rachita Buch,40263,0625308121,chauhanazaan@example.com,Warehouse Supervisor,2026-11-02,"62/40, Bassi Circle",73,WH5
+Anjali Khosla,56430,3148242214,manigautam@example.org,Store Manager,2026-11-03,Navrangpura,75,ST2
+Advik Chana,32224,0412584348,darpanlad@example.net,Warehouse Supervisor,2026-11-07,"H.No. 432, Chakrabarti Zila",42,WH11
+Panini Grover,18903,0298662526,tdeol@example.com,Warehouse Staff,2026-11-09,"20, Comar Ganj",54,WH10
+Raksha Saraf,19643,8707788570,aadidube@example.org,Warehouse Staff,2026-11-19,"94/45, Dada Chowk",33,WH12
+Arin Pai,20271,8956034142,dipta80@example.net,Warehouse Staff,2026-11-28,"94/45, Dada Chowk",33,WH12
+Shravya Khurana,22742,6621541288,ikbal47@example.net,Cashier,2026-12-27,Banjara Hills,101,ST4

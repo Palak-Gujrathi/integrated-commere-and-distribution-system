@@ -1,0 +1,300 @@
+transport_id,transport_type,transport_company,source_type,source_id,destination_type,destination_id,dispatch_date,arrival_date,cost
+1,Mini-Truck,TCI Transport,Dealer,31,Store,4,2026-03-01,2026-03-08,22023.81
+2,Mini-Truck,TCI Transport,Dealer,17,Warehouse,5,2026-07-27,2026-07-31,3750.12
+3,Van,TCI Transport,Dealer,32,Store,5,2026-05-29,2026-06-03,3624.94
+4,Mini-Truck,Gati,Warehouse,3,Store,5,2026-03-24,2026-03-27,13139.98
+5,Van,VRL Logistics,Warehouse,7,Store,5,2026-03-14,2026-03-15,6960.23
+6,Truck,Own Fleet,Warehouse,12,Store,1,2026-02-06,2026-02-11,6429.58
+7,Truck,Own Fleet,Dealer,4,Warehouse,10,2026-01-25,2026-01-31,23691.46
+8,Van,VRL Logistics,Dealer,4,Warehouse,1,2026-04-06,2026-04-09,5441.43
+9,Mini-Truck,Gati,Dealer,20,Store,3,2026-01-12,2026-01-19,3405.42
+10,Mini-Truck,Gati,Dealer,20,Store,1,2026-04-08,2026-04-11,9132.35
+11,Truck,VRL Logistics,Dealer,2,Warehouse,4,2026-05-19,2026-05-25,9975.85
+12,Mini-Truck,Own Fleet,Warehouse,9,Store,2,2026-07-03,2026-07-08,11084.52
+13,Truck,VRL Logistics,Warehouse,6,Store,4,2026-03-28,2026-03-29,15636.96
+14,Mini-Truck,Safexpress,Warehouse,9,Store,1,2026-02-06,2026-02-09,10474.42
+15,Truck,Gati,Warehouse,4,Store,1,2026-07-01,2026-07-06,3193.65
+16,Van,VRL Logistics,Warehouse,11,Store,5,2026-04-26,2026-05-03,7524.74
+17,Truck,Safexpress,Dealer,33,Warehouse,3,2026-05-22,2026-05-28,23118.35
+18,Truck,TCI Transport,Dealer,12,Warehouse,4,2026-03-07,2026-03-13,19263.47
+19,Truck,Own Fleet,Dealer,19,Store,5,2026-01-04,2026-01-07,2714.17
+20,Mini-Truck,Gati,Dealer,7,Warehouse,11,2026-07-12,2026-07-18,5246.56
+21,Mini-Truck,TCI Transport,Dealer,34,Store,5,2026-07-08,2026-07-11,3046.36
+22,Mini-Truck,Own Fleet,Dealer,17,Store,4,2026-06-12,2026-06-16,7938.98
+23,Truck,Gati,Dealer,38,Store,3,2026-02-02,2026-02-09,22853.85
+24,Van,Safexpress,Dealer,4,Store,2,2026-03-27,2026-04-02,4139.76
+25,Van,Rivigo,Dealer,38,Warehouse,7,2026-06-25,2026-06-30,19707.51
+26,Mini-Truck,Gati,Warehouse,3,Store,2,2026-05-04,2026-05-07,11080.09
+27,Truck,Safexpress,Dealer,22,Warehouse,6,2026-02-15,2026-02-17,9363.34
+28,Truck,Safexpress,Warehouse,8,Store,3,2026-04-30,2026-05-04,1808.02
+29,Mini-Truck,Safexpress,Warehouse,10,Store,1,2026-02-28,2026-03-02,7031.14
+30,Van,Own Fleet,Dealer,6,Store,4,2026-07-03,2026-07-09,4771.22
+31,Truck,VRL Logistics,Dealer,7,Store,2,2026-03-29,2026-03-30,15232.91
+32,Mini-Truck,TCI Transport,Warehouse,10,Store,5,2026-01-04,2026-01-11,21077.59
+33,Truck,Own Fleet,Dealer,29,Store,2,2026-01-11,2026-01-12,1984.78
+34,Van,Safexpress,Warehouse,6,Store,2,2026-03-25,2026-03-27,21721.38
+35,Mini-Truck,TCI Transport,Warehouse,3,Store,4,2026-02-16,2026-02-18,24379.7
+36,Truck,Gati,Warehouse,7,Store,2,2026-03-26,2026-03-31,22857.05
+37,Van,Own Fleet,Dealer,31,Store,4,2026-04-09,2026-04-15,5710.5
+38,Van,Gati,Dealer,26,Store,2,2026-05-23,2026-05-30,10342.9
+39,Mini-Truck,VRL Logistics,Dealer,7,Store,2,2026-03-20,2026-03-24,21736.28
+40,Mini-Truck,TCI Transport,Warehouse,8,Store,1,2026-06-08,2026-06-15,19331.77
+41,Van,Rivigo,Dealer,14,Store,5,2026-03-25,2026-03-29,14101.35
+42,Mini-Truck,TCI Transport,Dealer,26,Warehouse,2,2026-06-05,2026-06-10,6312.3
+43,Truck,Safexpress,Warehouse,1,Store,1,2026-05-05,2026-05-06,22658.3
+44,Van,Rivigo,Dealer,35,Warehouse,5,2026-01-11,2026-01-17,7553.39
+45,Truck,Gati,Dealer,30,Store,3,2026-05-28,2026-06-03,24513.14
+46,Mini-Truck,Safexpress,Dealer,35,Store,2,2026-05-04,2026-05-11,15679.44
+47,Mini-Truck,Safexpress,Dealer,2,Store,2,2026-06-20,2026-06-23,17808.15
+48,Van,TCI Transport,Dealer,23,Warehouse,6,2026-03-07,2026-03-10,10474.7
+49,Mini-Truck,VRL Logistics,Warehouse,1,Store,4,2026-03-30,2026-04-03,17793.27
+50,Mini-Truck,Rivigo,Warehouse,3,Store,3,2026-02-14,2026-02-20,1505.97
+51,Van,Gati,Warehouse,11,Store,5,2026-07-15,2026-07-16,20733.61
+52,Truck,Gati,Dealer,15,Warehouse,1,2026-01-21,2026-01-22,5407.35
+53,Truck,Rivigo,Dealer,13,Warehouse,11,2026-06-03,2026-06-09,19955.51
+54,Van,Own Fleet,Dealer,37,Store,3,2026-07-11,2026-07-18,20853.85
+55,Mini-Truck,TCI Transport,Dealer,21,Store,3,2026-04-13,2026-04-20,2392.05
+56,Van,Safexpress,Dealer,31,Store,3,2026-06-05,2026-06-12,17381.47
+57,Mini-Truck,VRL Logistics,Warehouse,4,Store,2,2026-05-14,2026-05-16,14727.71
+58,Mini-Truck,VRL Logistics,Warehouse,2,Store,5,2026-03-13,2026-03-16,15811.4
+59,Van,TCI Transport,Dealer,13,Warehouse,8,2026-06-11,2026-06-16,7362.73
+60,Truck,Own Fleet,Dealer,2,Store,1,2026-07-09,2026-07-15,3711.28
+61,Mini-Truck,Own Fleet,Warehouse,5,Store,1,2026-07-27,2026-08-02,13406.75
+62,Mini-Truck,Safexpress,Dealer,35,Warehouse,10,2026-01-12,2026-01-16,20649.34
+63,Van,Rivigo,Dealer,4,Warehouse,8,2026-05-16,2026-05-21,20331.14
+64,Mini-Truck,Safexpress,Dealer,28,Warehouse,4,2026-01-28,2026-02-04,10568.16
+65,Van,Rivigo,Warehouse,10,Store,4,2026-01-27,2026-01-28,2113.35
+66,Mini-Truck,Own Fleet,Warehouse,9,Store,1,2026-06-09,2026-06-12,12506.13
+67,Van,VRL Logistics,Warehouse,8,Store,4,2026-04-24,2026-04-28,6590.64
+68,Van,VRL Logistics,Dealer,27,Warehouse,11,2026-06-23,2026-06-25,20599.95
+69,Van,Gati,Dealer,32,Store,4,2026-03-14,2026-03-19,2053.34
+70,Van,VRL Logistics,Warehouse,11,Store,3,2026-03-15,2026-03-22,7705.98
+71,Van,TCI Transport,Dealer,31,Store,5,2026-01-08,2026-01-10,10289.22
+72,Truck,TCI Transport,Dealer,17,Warehouse,3,2026-07-09,2026-07-16,18636.05
+73,Mini-Truck,Rivigo,Warehouse,3,Store,1,2026-07-20,2026-07-27,12776.23
+74,Mini-Truck,Rivigo,Dealer,36,Warehouse,6,2026-06-27,2026-06-28,6037.68
+75,Truck,TCI Transport,Dealer,30,Store,5,2026-05-29,2026-06-05,22871.45
+76,Truck,TCI Transport,Warehouse,11,Store,1,2026-03-28,2026-03-31,22923.53
+77,Truck,Safexpress,Dealer,19,Store,4,2026-03-25,2026-04-01,24194.95
+78,Truck,Gati,Dealer,22,Warehouse,12,2026-05-27,2026-06-02,10413.08
+79,Van,Safexpress,Dealer,35,Warehouse,12,2026-01-16,2026-01-18,17995.24
+80,Truck,Gati,Dealer,15,Store,5,2026-04-02,2026-04-09,4626.09
+81,Mini-Truck,VRL Logistics,Dealer,4,Warehouse,8,2026-04-29,2026-05-04,13042.59
+82,Mini-Truck,TCI Transport,Dealer,15,Warehouse,9,2026-03-17,2026-03-19,13205.21
+83,Truck,Own Fleet,Dealer,38,Store,5,2026-02-21,2026-02-22,9974.5
+84,Van,TCI Transport,Dealer,39,Warehouse,12,2026-02-10,2026-02-14,24080.5
+85,Mini-Truck,TCI Transport,Warehouse,5,Store,4,2026-03-10,2026-03-17,19417.82
+86,Mini-Truck,Own Fleet,Dealer,14,Warehouse,2,2026-01-12,2026-01-17,1643.17
+87,Mini-Truck,TCI Transport,Dealer,35,Store,1,2026-04-28,2026-05-01,23818.06
+88,Truck,Rivigo,Dealer,15,Store,5,2026-01-20,2026-01-27,14537.7
+89,Truck,Rivigo,Dealer,32,Warehouse,12,2026-06-18,2026-06-25,12689.76
+90,Truck,TCI Transport,Dealer,1,Store,4,2026-06-18,2026-06-25,17881.04
+91,Mini-Truck,Rivigo,Dealer,38,Store,1,2026-05-05,2026-05-07,4147.83
+92,Truck,TCI Transport,Dealer,3,Store,5,2026-05-05,2026-05-10,24622.17
+93,Truck,VRL Logistics,Dealer,37,Warehouse,1,2026-01-23,2026-01-25,20003.27
+94,Van,Safexpress,Dealer,7,Warehouse,8,2026-06-02,2026-06-09,20327.82
+95,Truck,Gati,Dealer,5,Store,2,2026-01-28,2026-02-01,2802.09
+96,Van,TCI Transport,Warehouse,12,Store,3,2026-06-26,2026-06-29,12171.09
+97,Van,TCI Transport,Dealer,2,Store,2,2026-05-04,2026-05-05,11254.08
+98,Truck,Gati,Warehouse,9,Store,5,2026-04-26,2026-05-03,13204.77
+99,Mini-Truck,Safexpress,Dealer,18,Store,1,2026-01-04,2026-01-08,10164.0
+100,Mini-Truck,Own Fleet,Warehouse,5,Store,4,2026-07-06,2026-07-09,19102.38
+101,Mini-Truck,Safexpress,Dealer,18,Warehouse,6,2026-04-12,2026-04-17,5814.84
+102,Truck,Gati,Warehouse,8,Store,5,2026-05-14,2026-05-18,12278.41
+103,Truck,TCI Transport,Dealer,37,Store,3,2026-03-15,2026-03-21,12740.02
+104,Truck,VRL Logistics,Dealer,23,Warehouse,5,2026-03-04,2026-03-06,23504.58
+105,Truck,TCI Transport,Warehouse,3,Store,1,2026-07-27,2026-07-28,21184.98
+106,Truck,TCI Transport,Dealer,28,Store,4,2026-06-29,2026-07-03,5001.79
+107,Truck,Gati,Warehouse,1,Store,5,2026-07-29,2026-07-31,4272.78
+108,Van,VRL Logistics,Dealer,15,Store,1,2026-04-25,2026-04-29,14299.44
+109,Truck,Rivigo,Dealer,25,Warehouse,11,2026-04-10,2026-04-15,12573.66
+110,Mini-Truck,Rivigo,Dealer,27,Store,2,2026-01-21,2026-01-28,19950.59
+111,Van,Gati,Dealer,26,Warehouse,7,2026-07-25,2026-08-01,9710.0
+112,Truck,Gati,Warehouse,10,Store,3,2026-03-08,2026-03-10,6577.49
+113,Van,Own Fleet,Warehouse,12,Store,2,2026-01-02,2026-01-04,14004.02
+114,Van,Safexpress,Warehouse,4,Store,5,2026-04-05,2026-04-07,11387.39
+115,Truck,Gati,Dealer,11,Store,5,2026-01-04,2026-01-11,10414.93
+116,Van,Safexpress,Dealer,18,Store,2,2026-02-23,2026-02-28,21110.84
+117,Van,Own Fleet,Dealer,1,Store,4,2026-07-25,2026-07-27,14119.38
+118,Mini-Truck,Own Fleet,Dealer,22,Warehouse,8,2026-02-13,2026-02-18,24120.52
+119,Mini-Truck,Gati,Warehouse,11,Store,1,2026-04-28,2026-05-04,20960.0
+120,Van,TCI Transport,Dealer,15,Store,5,2026-06-28,2026-07-05,12893.97
+121,Truck,Own Fleet,Dealer,19,Warehouse,10,2026-01-01,2026-01-04,8423.77
+122,Truck,VRL Logistics,Dealer,8,Store,5,2026-01-02,2026-01-05,19201.92
+123,Mini-Truck,VRL Logistics,Warehouse,6,Store,5,2026-05-10,2026-05-15,9312.21
+124,Mini-Truck,Rivigo,Warehouse,12,Store,1,2026-01-16,2026-01-20,9921.15
+125,Mini-Truck,TCI Transport,Dealer,28,Warehouse,4,2026-04-09,2026-04-12,13428.26
+126,Mini-Truck,Safexpress,Warehouse,6,Store,1,2026-01-31,2026-02-05,24612.6
+127,Van,Gati,Warehouse,8,Store,1,2026-01-05,2026-01-08,19560.67
+128,Truck,Gati,Dealer,19,Warehouse,1,2026-01-25,2026-01-29,14452.14
+129,Van,Safexpress,Warehouse,8,Store,2,2026-02-17,2026-02-23,17670.96
+130,Mini-Truck,Own Fleet,Warehouse,5,Store,1,2026-06-28,2026-07-04,9430.4
+131,Truck,VRL Logistics,Warehouse,2,Store,2,2026-04-14,2026-04-20,3539.99
+132,Truck,Rivigo,Warehouse,8,Store,4,2026-06-26,2026-07-01,2899.4
+133,Van,TCI Transport,Dealer,21,Store,1,2026-05-15,2026-05-16,15603.56
+134,Truck,Gati,Warehouse,2,Store,2,2026-03-30,2026-04-03,13912.94
+135,Van,Rivigo,Dealer,31,Store,1,2026-03-23,2026-03-26,3644.64
+136,Truck,TCI Transport,Warehouse,10,Store,1,2026-02-07,2026-02-10,23575.58
+137,Mini-Truck,Gati,Dealer,9,Store,2,2026-05-30,2026-06-02,3548.22
+138,Van,Own Fleet,Dealer,26,Store,4,2026-06-20,2026-06-21,7009.75
+139,Truck,VRL Logistics,Warehouse,3,Store,1,2026-05-03,2026-05-04,20968.85
+140,Mini-Truck,TCI Transport,Dealer,26,Store,5,2026-03-12,2026-03-14,2104.96
+141,Van,Gati,Warehouse,8,Store,3,2026-04-08,2026-04-15,7135.75
+142,Van,TCI Transport,Dealer,4,Warehouse,4,2026-02-19,2026-02-25,4146.88
+143,Truck,Rivigo,Warehouse,3,Store,5,2026-07-14,2026-07-18,21268.77
+144,Van,TCI Transport,Warehouse,10,Store,4,2026-04-08,2026-04-13,20495.69
+145,Van,Rivigo,Warehouse,9,Store,2,2026-05-27,2026-05-30,13111.51
+146,Truck,Gati,Warehouse,7,Store,5,2026-02-07,2026-02-13,20475.81
+147,Mini-Truck,VRL Logistics,Dealer,39,Warehouse,7,2026-05-30,2026-05-31,2667.44
+148,Mini-Truck,Rivigo,Dealer,15,Warehouse,2,2026-05-16,2026-05-17,13783.18
+149,Van,Rivigo,Warehouse,4,Store,5,2026-02-25,2026-03-03,22875.63
+150,Mini-Truck,TCI Transport,Dealer,21,Store,3,2026-07-04,2026-07-06,11311.82
+151,Van,Rivigo,Dealer,23,Warehouse,11,2026-06-10,2026-06-15,15663.4
+152,Mini-Truck,Own Fleet,Dealer,13,Warehouse,3,2026-07-02,2026-07-03,10710.95
+153,Van,Rivigo,Dealer,33,Store,1,2026-02-28,2026-03-04,9974.21
+154,Mini-Truck,Safexpress,Dealer,12,Warehouse,4,2026-02-24,2026-02-27,17393.4
+155,Truck,Rivigo,Dealer,23,Warehouse,6,2026-06-15,2026-06-20,19908.23
+156,Truck,Rivigo,Dealer,26,Store,4,2026-06-24,2026-06-28,4449.57
+157,Mini-Truck,TCI Transport,Warehouse,9,Store,3,2026-03-06,2026-03-08,10041.92
+158,Truck,Gati,Dealer,11,Warehouse,1,2026-04-27,2026-05-02,15096.26
+159,Van,Gati,Warehouse,11,Store,2,2026-04-02,2026-04-06,19300.94
+160,Truck,Gati,Dealer,32,Store,3,2026-06-19,2026-06-26,21972.8
+161,Truck,Gati,Warehouse,12,Store,4,2026-02-14,2026-02-20,19714.04
+162,Mini-Truck,Safexpress,Warehouse,3,Store,1,2026-06-28,2026-07-02,8568.55
+163,Truck,Rivigo,Warehouse,10,Store,4,2026-04-01,2026-04-02,3745.64
+164,Mini-Truck,Gati,Dealer,32,Warehouse,12,2026-02-05,2026-02-11,17831.78
+165,Mini-Truck,Own Fleet,Dealer,14,Store,4,2026-07-08,2026-07-15,13856.18
+166,Mini-Truck,VRL Logistics,Dealer,5,Store,1,2026-05-02,2026-05-06,2670.43
+167,Van,Gati,Warehouse,5,Store,1,2026-04-10,2026-04-16,21487.29
+168,Van,Rivigo,Warehouse,6,Store,1,2026-06-18,2026-06-24,2697.41
+169,Van,Own Fleet,Dealer,22,Warehouse,1,2026-04-15,2026-04-21,9001.78
+170,Van,Own Fleet,Dealer,12,Warehouse,11,2026-07-20,2026-07-23,21556.16
+171,Mini-Truck,Safexpress,Dealer,22,Store,3,2026-02-12,2026-02-16,17351.34
+172,Truck,Own Fleet,Warehouse,2,Store,3,2026-04-27,2026-05-04,3879.92
+173,Mini-Truck,Safexpress,Dealer,22,Store,4,2026-07-21,2026-07-26,8388.09
+174,Van,Safexpress,Warehouse,1,Store,4,2026-06-09,2026-06-11,15189.09
+175,Truck,Safexpress,Dealer,35,Warehouse,10,2026-07-10,2026-07-17,14003.69
+176,Van,TCI Transport,Dealer,29,Warehouse,11,2026-03-17,2026-03-23,4570.42
+177,Truck,Gati,Dealer,12,Warehouse,12,2026-07-01,2026-07-05,7433.71
+178,Van,Safexpress,Dealer,9,Store,4,2026-02-07,2026-02-12,20173.65
+179,Van,TCI Transport,Dealer,38,Warehouse,1,2026-04-11,2026-04-16,19176.2
+180,Mini-Truck,VRL Logistics,Warehouse,8,Store,2,2026-06-05,2026-06-08,13077.51
+181,Van,Safexpress,Dealer,6,Store,5,2026-01-25,2026-01-31,6209.16
+182,Truck,Rivigo,Dealer,24,Warehouse,7,2026-05-09,2026-05-11,22734.97
+183,Mini-Truck,VRL Logistics,Dealer,39,Warehouse,7,2026-01-24,2026-01-30,18715.19
+184,Mini-Truck,VRL Logistics,Dealer,31,Warehouse,2,2026-05-19,2026-05-23,18006.17
+185,Van,Safexpress,Warehouse,12,Store,4,2026-07-05,2026-07-11,6593.52
+186,Truck,Safexpress,Dealer,11,Warehouse,9,2026-02-21,2026-02-27,13172.0
+187,Mini-Truck,Safexpress,Dealer,5,Warehouse,6,2026-02-06,2026-02-08,19684.25
+188,Van,Gati,Warehouse,3,Store,2,2026-05-01,2026-05-06,23286.41
+189,Truck,VRL Logistics,Dealer,30,Store,3,2026-07-22,2026-07-29,6048.19
+190,Truck,Safexpress,Dealer,1,Store,2,2026-06-06,2026-06-07,16901.94
+191,Mini-Truck,Gati,Dealer,23,Store,1,2026-04-10,2026-04-13,5241.68
+192,Truck,Rivigo,Dealer,32,Store,1,2026-04-28,2026-04-29,22574.07
+193,Mini-Truck,Rivigo,Warehouse,5,Store,4,2026-02-03,2026-02-07,15747.43
+194,Van,Safexpress,Warehouse,3,Store,5,2026-01-22,2026-01-26,11008.63
+195,Mini-Truck,Safexpress,Dealer,30,Warehouse,8,2026-04-25,2026-04-29,10591.26
+196,Van,Rivigo,Warehouse,7,Store,1,2026-01-23,2026-01-28,7115.57
+197,Mini-Truck,Gati,Dealer,25,Store,5,2026-04-27,2026-05-01,8933.93
+198,Van,Safexpress,Warehouse,10,Store,5,2026-06-04,2026-06-09,23497.52
+199,Mini-Truck,Gati,Dealer,36,Store,5,2026-07-01,2026-07-06,19383.12
+200,Van,Safexpress,Dealer,7,Store,4,2026-07-04,2026-07-08,2566.09
+201,Mini-Truck,Gati,Dealer,16,Warehouse,5,2026-07-16,2026-07-20,6770.39
+202,Truck,Gati,Dealer,27,Warehouse,10,2026-01-12,2026-01-19,16312.28
+203,Truck,TCI Transport,Dealer,6,Warehouse,12,2026-07-28,2026-07-31,22122.38
+204,Mini-Truck,Gati,Warehouse,9,Store,3,2026-04-27,2026-04-28,23462.94
+205,Truck,VRL Logistics,Dealer,39,Store,3,2026-06-15,2026-06-19,20753.86
+206,Truck,Own Fleet,Dealer,39,Store,2,2026-04-22,2026-04-27,16685.33
+207,Van,VRL Logistics,Warehouse,10,Store,2,2026-07-05,2026-07-08,1813.78
+208,Truck,VRL Logistics,Dealer,10,Store,2,2026-03-22,2026-03-24,17404.74
+209,Mini-Truck,Safexpress,Dealer,30,Warehouse,6,2026-04-11,2026-04-13,21712.42
+210,Van,Own Fleet,Warehouse,10,Store,4,2026-02-25,2026-03-04,18277.46
+211,Truck,Gati,Dealer,15,Store,3,2026-03-10,2026-03-13,17701.47
+212,Van,Gati,Warehouse,5,Store,1,2026-03-07,2026-03-09,2443.44
+213,Mini-Truck,Own Fleet,Dealer,37,Warehouse,6,2026-07-20,2026-07-23,21628.23
+214,Mini-Truck,Safexpress,Warehouse,2,Store,3,2026-02-25,2026-02-28,13358.49
+215,Truck,Gati,Dealer,18,Store,3,2026-01-25,2026-02-01,5414.45
+216,Truck,Own Fleet,Dealer,7,Store,4,2026-04-06,2026-04-11,11066.09
+217,Truck,Safexpress,Dealer,21,Store,4,2026-05-09,2026-05-12,1035.71
+218,Truck,Rivigo,Dealer,26,Warehouse,1,2026-05-01,2026-05-04,3374.47
+219,Truck,Rivigo,Dealer,23,Warehouse,12,2026-06-12,2026-06-13,7812.81
+220,Van,Own Fleet,Dealer,2,Store,1,2026-06-14,2026-06-20,6956.75
+221,Van,Gati,Dealer,10,Store,3,2026-05-23,2026-05-30,13683.31
+222,Truck,Rivigo,Dealer,38,Store,5,2026-04-13,2026-04-17,14279.67
+223,Van,VRL Logistics,Dealer,35,Warehouse,2,2026-02-01,2026-02-08,13952.94
+224,Mini-Truck,VRL Logistics,Dealer,4,Warehouse,10,2026-07-05,2026-07-07,23475.42
+225,Truck,TCI Transport,Dealer,22,Warehouse,10,2026-07-02,2026-07-09,19349.64
+226,Van,Gati,Warehouse,12,Store,2,2026-06-27,2026-06-28,13800.65
+227,Truck,Rivigo,Warehouse,12,Store,4,2026-04-12,2026-04-18,21613.19
+228,Mini-Truck,TCI Transport,Dealer,11,Store,5,2026-03-02,2026-03-03,12657.33
+229,Truck,Rivigo,Warehouse,3,Store,3,2026-02-20,2026-02-21,18033.21
+230,Truck,Own Fleet,Dealer,24,Warehouse,8,2026-07-10,2026-07-14,16438.27
+231,Truck,Safexpress,Warehouse,4,Store,3,2026-02-14,2026-02-21,20331.08
+232,Van,Gati,Warehouse,8,Store,5,2026-03-20,2026-03-23,15607.65
+233,Mini-Truck,TCI Transport,Dealer,19,Warehouse,7,2026-03-05,2026-03-08,22413.82
+234,Mini-Truck,Rivigo,Dealer,15,Warehouse,2,2026-07-22,2026-07-26,20238.73
+235,Truck,Gati,Warehouse,10,Store,5,2026-06-30,2026-07-02,13175.57
+236,Mini-Truck,Safexpress,Dealer,7,Store,3,2026-05-28,2026-05-30,18770.07
+237,Truck,TCI Transport,Dealer,11,Store,3,2026-03-05,2026-03-08,16642.32
+238,Truck,Safexpress,Dealer,1,Warehouse,7,2026-01-12,2026-01-18,9741.73
+239,Truck,VRL Logistics,Warehouse,4,Store,2,2026-06-24,2026-06-27,23340.12
+240,Mini-Truck,Rivigo,Dealer,38,Warehouse,9,2026-04-15,2026-04-20,19287.93
+241,Van,Own Fleet,Dealer,32,Warehouse,2,2026-05-18,2026-05-24,18452.76
+242,Truck,Gati,Warehouse,1,Store,5,2026-03-14,2026-03-16,20274.3
+243,Van,VRL Logistics,Warehouse,10,Store,1,2026-01-29,2026-02-01,14749.09
+244,Truck,Safexpress,Dealer,31,Warehouse,10,2026-01-10,2026-01-13,18823.36
+245,Truck,Rivigo,Dealer,18,Warehouse,4,2026-03-01,2026-03-05,2085.95
+246,Mini-Truck,Own Fleet,Warehouse,7,Store,1,2026-06-22,2026-06-26,11636.27
+247,Truck,Own Fleet,Dealer,4,Store,4,2026-06-29,2026-07-02,18511.05
+248,Van,Gati,Dealer,38,Store,1,2026-02-17,2026-02-21,19551.69
+249,Mini-Truck,Safexpress,Warehouse,11,Store,5,2026-04-16,2026-04-19,6007.73
+250,Mini-Truck,Gati,Warehouse,4,Store,2,2026-03-30,2026-04-02,1287.07
+251,Van,Safexpress,Warehouse,1,Store,5,2026-04-09,2026-04-14,8629.64
+252,Truck,TCI Transport,Warehouse,4,Store,2,2026-04-19,2026-04-22,6158.06
+253,Truck,Rivigo,Dealer,36,Store,3,2026-05-16,2026-05-21,1253.46
+254,Truck,Safexpress,Dealer,12,Store,5,2026-06-07,2026-06-08,14869.49
+255,Van,Safexpress,Warehouse,5,Store,1,2026-05-10,2026-05-12,4105.32
+256,Mini-Truck,TCI Transport,Dealer,35,Warehouse,3,2026-03-08,2026-03-11,16506.7
+257,Truck,Gati,Dealer,19,Store,3,2026-01-11,2026-01-13,10944.1
+258,Truck,VRL Logistics,Dealer,18,Warehouse,3,2026-01-21,2026-01-22,17140.54
+259,Mini-Truck,Gati,Dealer,13,Warehouse,10,2026-05-18,2026-05-22,4550.84
+260,Mini-Truck,Gati,Dealer,31,Warehouse,9,2026-01-21,2026-01-28,14672.76
+261,Van,Rivigo,Warehouse,8,Store,3,2026-02-15,2026-02-21,9611.45
+262,Mini-Truck,TCI Transport,Dealer,5,Store,1,2026-04-28,2026-04-29,5186.89
+263,Truck,Safexpress,Dealer,29,Store,4,2026-04-08,2026-04-13,16675.46
+264,Truck,TCI Transport,Dealer,3,Store,3,2026-01-12,2026-01-15,19417.95
+265,Mini-Truck,Gati,Warehouse,9,Store,2,2026-04-06,2026-04-09,11822.29
+266,Van,VRL Logistics,Dealer,22,Warehouse,1,2026-07-14,2026-07-19,10159.72
+267,Truck,Gati,Warehouse,5,Store,2,2026-04-04,2026-04-11,18191.48
+268,Mini-Truck,Gati,Dealer,10,Warehouse,2,2026-03-11,2026-03-12,6029.8
+269,Mini-Truck,TCI Transport,Dealer,2,Store,1,2026-02-09,2026-02-16,5652.39
+270,Mini-Truck,VRL Logistics,Warehouse,6,Store,4,2026-04-22,2026-04-24,10542.06
+271,Truck,Rivigo,Warehouse,12,Store,1,2026-02-17,2026-02-20,13508.35
+272,Truck,TCI Transport,Warehouse,6,Store,1,2026-05-29,2026-06-04,11017.87
+273,Mini-Truck,VRL Logistics,Warehouse,2,Store,1,2026-02-08,2026-02-13,8665.85
+274,Truck,Gati,Warehouse,9,Store,4,2026-01-04,2026-01-05,3067.28
+275,Mini-Truck,TCI Transport,Warehouse,9,Store,2,2026-05-04,2026-05-10,11893.4
+276,Mini-Truck,Own Fleet,Dealer,28,Store,1,2026-03-08,2026-03-13,16412.37
+277,Truck,Gati,Dealer,15,Store,2,2026-01-11,2026-01-14,15420.55
+278,Mini-Truck,VRL Logistics,Dealer,21,Warehouse,2,2026-01-13,2026-01-17,7236.31
+279,Van,Safexpress,Warehouse,11,Store,5,2026-07-03,2026-07-06,15874.83
+280,Van,Gati,Dealer,1,Store,4,2026-01-09,2026-01-14,12043.7
+281,Van,Rivigo,Dealer,40,Store,4,2026-04-28,2026-05-03,18691.77
+282,Truck,Own Fleet,Dealer,8,Store,3,2026-01-03,2026-01-09,2354.55
+283,Truck,VRL Logistics,Warehouse,1,Store,3,2026-06-05,2026-06-11,8787.06
+284,Mini-Truck,Rivigo,Dealer,36,Warehouse,3,2026-06-09,2026-06-11,14738.91
+285,Van,Rivigo,Dealer,29,Store,1,2026-04-19,2026-04-26,6383.43
+286,Truck,Safexpress,Dealer,15,Warehouse,2,2026-07-17,2026-07-18,1670.02
+287,Van,VRL Logistics,Dealer,34,Warehouse,8,2026-07-24,2026-07-31,4496.03
+288,Truck,Rivigo,Warehouse,11,Store,3,2026-03-21,2026-03-28,18551.34
+289,Van,Gati,Dealer,35,Store,5,2026-03-07,2026-03-09,24079.2
+290,Truck,Gati,Warehouse,3,Store,5,2026-07-12,2026-07-17,15657.62
+291,Mini-Truck,Gati,Warehouse,7,Store,1,2026-07-16,2026-07-21,13727.76
+292,Mini-Truck,Gati,Dealer,18,Store,5,2026-06-15,2026-06-20,2168.58
+293,Mini-Truck,Own Fleet,Dealer,28,Store,4,2026-03-08,2026-03-13,8596.4
+294,Truck,Rivigo,Dealer,23,Store,1,2026-03-04,2026-03-11,6256.99
+295,Truck,Safexpress,Warehouse,9,Store,3,2026-02-07,2026-02-12,20804.83
+296,Van,VRL Logistics,Dealer,16,Warehouse,9,2026-03-15,2026-03-22,5371.23
+297,Truck,Own Fleet,Warehouse,12,Store,1,2026-01-18,2026-01-23,20843.13
+298,Mini-Truck,Own Fleet,Dealer,24,Store,4,2026-02-13,2026-02-16,6048.54
+299,Truck,Rivigo,Warehouse,6,Store,1,2026-07-28,2026-07-30,22113.04

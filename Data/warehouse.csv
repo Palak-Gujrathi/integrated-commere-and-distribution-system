@@ -1,0 +1,13 @@
+warehouse_id,capacity_sqm,locality,location_id,rent
+1,4880.00,"784, Majumdar Road",74,561200.00
+2,3996.00,"H.No. 182 Hans Nagar",93,395604.00
+3,1148.00,"H.No. 27 Sha Street",2,111356.00
+4,4723.00,"64/044 Mann Street",22,524253.00
+5,2919.00,"62/40, Bassi Circle",73,338604.00
+6,1000.00,"37Sethi Chowk",80,80000.00
+7,2157.00,"H.No. 16, Talwar",71,200601.00
+8,4819.00,"14/72, Thakur Nagar",61,404796.00
+9,808.00,"81/67, Bandi Path",25,71104.00
+10,3166.00,"20, Comar Ganj",54,360924.00
+11,2735.00,"H.No. 432, Chakrabarti Zila",42,235210.00
+12,3372.00,"94/45, Dada Chowk",33,306852.00

@@ -1,0 +1,101 @@
+product_id,product_name,category_id,price,gst_rate,specification,expiry_date
+1,"Himalaya Menosan Tablets",1,216.00,12.00,"30 Tablets",2028-12-31
+2,"Electric Heating Hot Water Bag",1,289.00,12.00,"With Pouch, 1 Pc",NULL
+3,"Bibo Fever Cooling Patch",1,149.00,12.00,"Pack of 3",NULL
+4,"Tynor Abdominal Support",1,628.00,12.00,"Large, Grey",NULL
+5,"Dabur Chyawanprash",1,315.00,12.00,"500 g",2028-12-31
+6,"Red Label Natural Care Tea",2,518.00,5.00,"1 kg",2027-11-30
+7,"Amul Butter",2,299.00,5.00,"500 g",2027-10-31
+8,"Hazelnut Hot Chocolate",2,169.00,5.00,"240 ml",2027-09-30
+9,"Mayurank Organic Sugar",2,66.00,5.00,"1 kg",2029-06-30
+10,"Fortune Sunlite Sunflower Oil",2,151.50,5.00,"840 g",2028-05-31
+11,"Apple iPhone 17",3,82999.00,18.00,"256GB, White, 1 Unit",NULL
+12,"Dell Inspiron Ryzen 5 Laptop",3,65990.00,18.00,"16GB RAM, 512GB SSD, 15.6" FHD 1 Unit",NULL
+13,"boAt Stone 135 Bluetooth Speaker",3,1990.00,18.00,"Active Black, 1 pc",NULL
+14,"Logitech M331 Wireless Mouse",3,1295.00,18.00,"Wireless, Silent Click",NULL
+15,"Samsung Galaxy Tab A9",3,15999.00,18.00,"8GB RAM, 128GB Storage",NULL
+16,"Sony WH-CH520 Wireless Headphones",3,4499.00,18.00,"Bluetooth, Black",NULL
+17,"Levis Men's Slim Fit Jeans",4,2299.00,12.00,"Blue, Size 32",NULL
+18,"Van Heusen Men's Formal Shirt",4,1799.00,12.00,"White, Size L",NULL
+19,"Biba Women's Printed Kurti",4,1499.00,12.00,"Cotton, Size M",NULL
+20,"Allen Solly Women's Casual Top",4,999.00,12.00,"Pink, Size M",NULL
+21,"Jockey Unisex Cotton T-Shirt",4,799.00,12.00,"Black, Size L",NULL
+22,"Asian Footwear Mens Black Walking Shoes",5,914.00,18.00,"1-Pair (UK/IND-8)",NULL
+23,"Asian Footwear Indigo-01 Womens Flip Flops",5,599.00,18.00,"Baby Pink, 1 Pair (UK/IND - 7)",NULL
+24,"Redtape Mens Clogs",5,929.00,18.00,"Light-Grey, 1 Pair (UK/IND-9)",NULL
+25,"Bata Womens Sandals",5,1299.00,18.00,"Tan, Size 6",NULL
+26,"Puma Unisex Running Shoes",5,2499.00,18.00,"Black, Size 9",NULL
+27,"Prestige Pressure Cooker",6,2499.00,18.00,"5 L, Aluminium",NULL
+28,"Milton Stainless Steel Water Bottle",6,499.00,18.00,"1 L",NULL
+29,"Pigeon Non-Stick Fry Pan",6,899.00,18.00,"24 cm",NULL
+30,"Cello Dinner Plate Set",6,799.00,18.00,"Pack of 6",NULL
+31,"Butterfly Stainless Steel Spoon Set",6,349.00,18.00,"Pack of 12",NULL
+32,"Nivea Soft Moisturising Cream",7,299.00,18.00,"200 ml",2028-09-30
+33,"Himalaya Neem Face Wash",7,180.00,18.00,"200 ml",2028-12-31
+34,"Mamaearth Vitamin C Face Serum",7,599.00,18.00,"30 ml",2029-03-31
+35,"Pond's Super Light Gel",7,349.00,18.00,"147 g",2028-11-30
+36,"Cetaphil Gentle Skin Cleanser",7,699.00,18.00,"250 ml",2029-06-30
+37,"Vaseline Intensive Care Body Lotion",7,275.00,18.00,"400 ml",2029-02-28
+38,"Lakme Eyeconic Kajal",8,299.00,18.00,"0.35 g",2028-10-31
+39,"Maybelline Fit Me Foundation",8,549.00,18.00,"30 ml",2029-05-31
+40,"Faces Canada Matte Lipstick",8,399.00,18.00,"4.2 g",2028-12-31
+41,"Lakme Face Compact",8,225.00,18.00,"9 g",2029-03-31
+42,"Colorbar Nail Polish",8,199.00,18.00,"12 ml",2028-08-31
+43,"Classmate Notebook",9,120.00,12.00,"200 Pages",NULL
+44,"Cello Butterflow Pen",9,50.00,12.00,"Pack of 10",NULL
+45,"Apsara Platinum Pencils",9,60.00,12.00,"Pack of 10",NULL
+46,"Faber-Castell Eraser",9,20.00,12.00,"Pack of 2",NULL
+47,"Camel Geometry Box",9,180.00,12.00,"Metal Box",NULL
+48,"Flower Vase",10,499.00,18.00,"Ceramic, White",NULL
+49,"Wall Clock",10,899.00,18.00,"12 Inch",NULL
+50,"Decorative LED Lights",10,699.00,18.00,"5 m, Warm White",NULL
+51,"Photo Frame",10,349.00,18.00,"8 x 10 Inch",NULL
+52,"Artificial Plant",10,599.00,18.00,"40 cm",NULL
+53,"Vaseline Intensive Care Body Lotion",7,275.00,18.00,"400 ml",2029-02-28
+54,"bb home Kitchen Dusters",11,99.00,18.00,"Pixel, 40 x 30 cm, Medium, 4 pcs",NULL
+55,"Milton Stainless Steel Water Bottle",11,499.00,18.00,"1 L",NULL
+56,"Pigeon Non-Stick Fry Pan",11,899.00,18.00,"24 cm",NULL
+57,"Cello Dinner Plate Set",11,799.00,18.00,"Pack of 6",NULL
+58,"Signoraware Food Storage Container Set",11,599.00,18.00,"Pack of 6",NULL
+59,"Study Table",12,3999.00,18.00,"Wooden, Brown",NULL
+60,Bookshelf,12,2899.00,18.00,"5 Shelves",NULL
+61,"Coffee Table",12,2499.00,18.00,"Engineered Wood",NULL
+62,Wardrobe,12,11999.00,18.00,"3 Door",NULL
+63,"Office Chair",12,4599.00,18.00,"Ergonomic, Black",NULL
+64,"Remote Control Car",13,1499.00,12.00,Rechargeable,NULL
+65,"Building Blocks Set",13,899.00,12.00,"120 Pieces",NULL
+66,"Barbie Doll",13,1299.00,12.00,"12 Inch",NULL
+67,"Soft Teddy Bear",13,799.00,12.00,"40 cm",NULL
+68,"Rubik's Cube",13,299.00,12.00,"3 x 3",NULL
+69,"Nivia Football",14,799.00,12.00,"Size 5",NULL
+70,"Yonex Badminton Racket",14,1499.00,12.00,Graphite,NULL
+71,"SG Cricket Bat",14,2499.00,12.00,"English Willow",NULL
+72,"Cosco Basketball",14,999.00,12.00,"Size 7",NULL
+73,"Skipping Rope",14,299.00,12.00,Adjustable,NULL
+74,"The Alchemist",15,399.00,5.00,Paperback,NULL
+75,"Atomic Habits",15,599.00,5.00,Paperback,NULL
+76,"Rich Dad Poor Dad",15,499.00,5.00,Paperback,NULL
+77,"The Psychology of Money",15,550.00,5.00,Paperback,NULL
+78,"Wings of Fire",15,350.00,5.00,Paperback,NULL
+79,Ikigai,15,450.00,5.00,Paperback,NULL
+80,"Pedigree Adult Dog Food",16,699.00,18.00,"3 kg",2028-06-30
+81,"Whiskas Cat Food",16,599.00,18.00,"1.2 kg",2028-04-30
+82,"Dog Leash",16,349.00,18.00,Nylon,NULL
+83,"Pet Shampoo",16,299.00,18.00,"200 ml",2029-01-31
+84,"Pet Feeding Bowl",16,249.00,18.00,"Stainless Steel",NULL
+85,"Johnson's Baby Powder",17,299.00,18.00,"400 g",2029-03-31
+86,"Johnson's Baby Soap",17,175.00,18.00,"125 g",2028-11-30
+87,"Pampers Baby Diapers",17,699.00,12.00,"Pack of 42",NULL
+88,"Baby Wipes",17,249.00,18.00,"72 Wipes",2028-10-31
+89,"Baby Lotion",17,349.00,18.00,"200 ml",2029-05-31
+95,"Car Vacuum Cleaner",19,1999.00,18.00,Portable,NULL
+96,"Car Air Freshener",19,299.00,18.00,Lemon,NULL
+97,"Microfiber Cleaning Cloth",19,199.00,18.00,"Pack of 4",NULL
+98,"Bike Helmet",19,1599.00,18.00,"ISI Certified",NULL
+99,"Car Mobile Holder",19,499.00,18.00,"Dashboard Mount",NULL
+100,"Michelin Tyre Pressure Gauge",19,599.00,18.00,Digital,NULL
+101,"Oxidised Jhumka",18,299.00,18.00,"Oxidised Silver Finish",NULL
+102,"Pearl Drop Earrings",18,249.00,18.00,"Artificial Pearl",NULL
+103,"Layered Necklace",18,499.00,18.00,"Fashion Jewellery",NULL
+104,"Charm Bracelet",18,349.00,18.00,"Alloy Metal",NULL
+105,"Stone Bangles Set",18,449.00,18.00,"Set of 6",NULL
